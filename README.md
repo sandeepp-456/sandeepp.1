@@ -1,2 +1,3 @@
 # sandeepp.1
 this ismy first git repository
+auther- sandeepp kumar
